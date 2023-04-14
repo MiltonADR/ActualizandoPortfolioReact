@@ -1,0 +1,17 @@
+.banner {
+  background-image: url('https://img.freepik.com/fotos-premium/hermoso-paisaje-montanas-lo-lejos-vegetacion-nubes-arte-digital_695573-80.jpg?w=740');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+
+.experiencia {
+  background-color: #e6e6e6;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.educacion {
+  padding: 5px;
+}
